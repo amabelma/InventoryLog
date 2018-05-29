@@ -1,1 +1,2 @@
 # InventoryLog
+For the first iteration, this will be a simple page with a search bar at the top, where you can search for and return any object owned. It can be from a JSON object for now, any conversion to a database or whatever can be dealt with later.
